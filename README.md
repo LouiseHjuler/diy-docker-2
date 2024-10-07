@@ -10,7 +10,8 @@ eller i ditt Cloud9 miljø.
 * Sjekk at applikasjonen kjører lokalt med docker run
 * Lag et nytt ECR repository klassens AWS miljø
 * Push docker image til ECR
-
+* Logg inn i AWS i tjenesten ECR se på container image.  
+  
 Hvis du er usikker på kommandoene, sjekk Github actions workflow fra forrige lab!
 
 
