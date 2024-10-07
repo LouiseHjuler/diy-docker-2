@@ -8,7 +8,7 @@ Du har 20-30 minutter på deg til å containerisere en Spring Boot-applikasjon s
 eller i ditt Cloud9 miljø. 
 
 * Sjekk at applikasjonen kjører lokalt med docker run
-* Lag et nytt ECR repository klassens AWS miljø
+* Lag et nytt ECR repository klassens AWS miljø.
 * Push docker image til ECR
 * Logg inn i AWS i tjenesten ECR se på container image.  
   
